@@ -1,4 +1,4 @@
-#[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pratham14-coder/Rice_leaf_Classifiaction_CNN/blob/main/final_rice_leaf_disease_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pratham14-coder/Rice_leaf_Classifiaction_CNN/blob/main/final_rice_leaf_disease_colab.ipynb)
 
 
 
